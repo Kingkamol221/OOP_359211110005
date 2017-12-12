@@ -15,5 +15,16 @@ public class TestWhileLoop {
                 System.out.print("Hello");
             i++;
     }
+//  do-while
+        System.out.println("\n");
+         int j=1;
+         do {
+             System.out.print(j + " ");
+             if (j%2==1)
+                 System.out.print("Hello");
+             j++;
+         }while (j <= 10);
+
+
     }
 }
