@@ -43,7 +43,6 @@ public class StudentData {
     System.out.println(name+"\n"+address+"\n"+id+"\n"+faculty+"\n"+email);
     System.out.println(getname()+"\n"+getaddress());
 
-
     }
 }
 
