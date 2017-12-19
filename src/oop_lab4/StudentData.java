@@ -7,4 +7,8 @@ package oop_lab4;
 //5.email
 
 public class StudentData {
+    public static void  main (String[] arge){
+        
+    }
 }
+
